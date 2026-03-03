@@ -60,7 +60,7 @@ A high-performance **Rust** arbitrage bot for [Polymarket](https://polymarket.co
 ## Installation
 
 ```bash
-git clone https://github.com/baker42757/Polymarket-15min-5min-arbitrage-bot.git
+git clone https://github.com/gabagool23/Polymarket-15min-5min-arbitrage-bot.git
 cd Polymarket-15min-5min-arbitrage-bot
 cargo build --release
 ```
@@ -156,7 +156,7 @@ This bot is for **educational and research purposes**. Polymarket and crypto pre
 
 ## Contact
 
-- **Telegram:** [@baker1119](https://t.me/baker1119)
+- **Telegram:** [@gabagool21](https://t.me/gabagool21)
 
 ---
 
