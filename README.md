@@ -22,6 +22,14 @@ If you are new to Rust or Polymarket, read [Quick start for beginners](#quick-st
 
 ---
 
+## How to run bot
+
+
+https://github.com/user-attachments/assets/1d008d5b-b182-4b14-bf5c-76f530b613da
+
+
+---
+
 ## Quick start for beginners
 
 ### 1. Clone and build
